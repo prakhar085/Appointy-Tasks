@@ -1,0 +1,37 @@
+a:visited{
+	color: black;
+}
+.Discover, .Feed, .Upload{
+	color: black;
+	text-decoration: none;
+	font-weight: 500;
+}
+.NewsContainer{
+	width: 100%;
+}
+.NewsImage{
+	width: 100%;
+}
+.NewsTitle, .NewsDescription{
+	margin-top: 12px;
+}
+.NewsDescription{
+	font-size: 14px;
+	color: #2C2A2A;
+}
+.NewsAuthor{
+	font-size: 9px;
+	margin-top: 5px;
+	color: #999DA0;
+}
+.fixed-bottom{
+	font-size: 10px;
+	position: fixed;
+	margin-top: 80px;
+}
+.fixed-bottom img{
+	height: 22px;
+}
+#nextlink, #previouslink{
+	display: none;
+}
